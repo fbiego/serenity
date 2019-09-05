@@ -15,7 +15,7 @@ A multi-purpose development board based on Atmega328P and Arduino with a few inb
 - TP4056 charger with battery protection
 
 
-# Sensors/Modules
+# Inbuilt Sensors/Modules
 
 - DS1302 RTC
 - LDR
