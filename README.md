@@ -3,7 +3,7 @@ A multi-purpose development board based on Atmega328P and Arduino with a few inb
 
 ## PCB Design
 
-![Front](hardware/IMG/front.png?raw=true "Front")
+![Front](hardware/IMG/downImg.png?raw=true "Front")
 
 # Features
 
