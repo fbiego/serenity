@@ -1,14 +1,14 @@
 # Serenity IOT
-A multi-purpose development board based on Atmega328P and Arduino with a few inbuilt sensors
+A multi-purpose prototyping board based on Atmega328P and Arduino with a few inbuilt sensors
 
-## PCB Design
+# The Board
 
-![Front](hardware/IMG/downImg.png?raw=true "Front")
+![Front](hardware/IMG/image.png?raw=true "Front")
 
 # Features
 
-- ATMEGA328P
-- CH340G 
+- ATMEGA328P [main IC]
+- CH340G [USB to Serial IC]
 - TP4056 charger with battery protection
 
 
@@ -26,7 +26,7 @@ A multi-purpose development board based on Atmega328P and Arduino with a few inb
 # Module Connection
 
 - NRF24L01 
-- HC-06 Bluetooth
+- HC-06 Bluetooth [NEO6Mv2 GPS compatible]
 - MPU6050 
 - OLED I²C
 - Servo x4
