@@ -3,7 +3,7 @@ A multi-purpose prototyping board based on Atmega328P and Arduino with a few inb
 
 # The Board
 
-![Front](hardware/IMG/image.png?raw=true "Front")
+![Front](hardware/IMG/image_1.png?raw=true "Front")
 
 # Features
 
