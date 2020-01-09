@@ -33,3 +33,5 @@ A multi-purpose prototyping board based on Atmega328P and Arduino with a few inb
 - WS2812b Dout
 - Battery Terminals
 - ATTINY Programming Socket DIP-8
+
+[More info](http://biegocorp.000webhostapp.com/serenity)
